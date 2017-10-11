@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+support_cours_shiny_cache/
+support_cours_shiny_cache/*
+support_cours_shiny_cache
